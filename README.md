@@ -1,2 +1,3 @@
-# CODZ
-just a pavlov cod zombies thingy
+Viper
+
+Viper is a roblox trade bot prototype with some defining features.
